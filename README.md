@@ -9,12 +9,18 @@
 
 
 
-<h2 align="center">Requirements</h2>
+<h2 align="center"> Instruções</h2>
 
-**Ruby V 2.7.2**
+• Crie um gmail para usar
 
---
-#Instalação ⬇️
+• Vá nas configurações de conta > Segurança > liberar apps menos seguros
+
+• Ative está opção
+
+• Volte para o termux e execute o painel colocando o email e senha qu você havia criado.
+
+
+<h2 align="center">Instalação ⬇️</h2>
 
 ```
 git clone https://GitHub.com/FreshPhp/Spam-Report.git
@@ -26,5 +32,5 @@ gem install gmail_sender
 ruby main.rb
 
 ```
----
+
 
