@@ -13,14 +13,14 @@
 
 • Crie um gmail para usar
 
-• Vá nas configurações de conta > Segurança > liberar apps menos seguros
+• Vá nas configurações de conta > Segurança > Acesso a apps menos seguros
 
 • Ative está opção
 
-• Volte para o termux e execute o painel colocando o email e senha qu você havia criado.
+• Volte para o termux e execute o painel. Use o email e senha qu você havia criado.
 
 
-<h2 align="center">Instalação ⬇️</h2>
+<h2 align="center">Instalação  ⬇️</h2>
 
 ```
 git clone https://GitHub.com/FreshPhp/Spam-Report.git
