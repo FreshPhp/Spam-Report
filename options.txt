@@ -1,0 +1,26 @@
+×××××××××××××××××××
+Desativação de números
+×××××××××××××××××××
+
+[ 1 ] Método 1
+[ 2 ] Método 2
+[ 3 ] Método 3
+[ 4 ] Método 4
+[ 5 ] Método 5
+
+
+×××××××××××××××××××
+Desbanimento de números:
+×××××××××××××××××××
+
+[ 6 ] Método 1
+[ 7 ] Método 2
+[ 8 ] Método 3
+[ 9 ] Método 4
+
+=====================
+[ C ] Criador
+[ A ] Atualizar Painel
+[ S ] Sair
+=====================
+
