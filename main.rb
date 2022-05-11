@@ -70,7 +70,7 @@ when "6"
   when "7"
     email("Meu número foi banido injustamente.","Meu numero foi banido, utilizo ele para falar com meus amigos e familia. Além de falar com meus clientes, e estou sendo prejudicado perdendo vendas")
   when "8"
-    email("Meu número foi banido injustamente.","Olá,, eu comprei um número número para meu filho fazer os trabalhos da escola em qual ele estuda , porém quando fui tentar entrar , estava dizendo que o número foi banido e eu nem sequer entrei no número, não fiz nada eu ja comprei o número e ele ja estava assim, ele precisa urgentemente desse número para fazer os trabalhos da escola.Verifiquem o maís rápido possível! NÚMERO:")
+    email("Meu número foi banido injustamente.","Olá, eu comprei um número número para meu filho fazer os trabalhos da escola em qual ele estuda , porém quando fui tentar entrar , estava dizendo que o número foi banido e eu nem sequer entrei no número, não fiz nada eu ja comprei o número e ele ja estava assim, ele precisa urgentemente desse número para fazer os trabalhos da escola.Verifiquem o maís rápido possível! NÚMERO:")
     when "9"
     email("Meu número foi banido injustamente.","Meu número , foi banido do whatsapp injustamente e tenho provas pra mostrar que o banimento foi um erro do sistema. Número:")
 when "C"
